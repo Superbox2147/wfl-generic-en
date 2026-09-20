@@ -8,7 +8,7 @@ Generic English model for [WFL-ASR (refactor branch)](https://github.com/MLo7Ghi
 - voder
 - MURIN
 - fae
-- RONNIE
+- VERIN1KA
 - Alex (NeoDIVA)
 - AlexFlorea (legacy)
 - DAYTON
