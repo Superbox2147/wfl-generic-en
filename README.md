@@ -16,4 +16,4 @@ Generic English model for [WFL-ASR (refactor branch)](https://github.com/MLo7Ghi
 - AIDOL
 - ACV-001
 - Deshi
-- LIFE corpus
+- LIEE corpus
